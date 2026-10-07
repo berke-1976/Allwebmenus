@@ -215,4 +215,4 @@ AllWebMenus is the full free version, providing all features and updates without
 Take your web development to the next level with AllWebMenus. **Download now and start creating stunning menus today!**
 
 ---
-**Last updated:** 2026-10-07 09:42:19 UTC
+**Last updated:** 2026-10-07 17:11:03 UTC
